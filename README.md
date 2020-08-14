@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Paulo Henrique 👋
 
-<!--
-**paulhenrique/paulhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+He is a graduate student in Physics at the Federal Institute of Education, Science and Technology of São Paulo (IFSP) Campus Itapetininga, an institution in which he also obtained the title of Computer Technician and served as a fellow working in the area of Web Apps development and integration of user interfaces. Web systems with numerical methods. He has experience in the areas of Computer Science, Graphic Design, User Interface and Experience Patterns and development of Progressive Web Apps, with an emphasis on user utilization research and interface improvement techniques.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working with Vue JS, Python, MongoDB and Node JS in a research project financed by São Paulo Research Support Foundation - (Fapesp) to develop Web and Mobile Apps to numerical simulations.
+
+- 🌱 I’m currently learning Physics at the Federal Institute of São Paulo Campus Itapetininga, where I became Computer Technician and develop my first projects with the Web and software development
+
+- ⚡ Fun fact: I'm musician, and I love that. 
+
+- 📫 How to reach me: e-mail paulo.vieira@aluno.ifsp.edu.br or facebook [fb.com/paulhenriquev](https://fb.com/paulhenriquev)
+<!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+   -->
+
+
