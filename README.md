@@ -11,7 +11,7 @@ He is a graduate student in Physics at the Federal Institute of Education, Scien
 
 - 📫 How to reach me: [E-mail](paulo.vieira@aluno.ifsp.edu.br), [Facebook](https://fb.com/paulhenriquev), [WhatsApp](https://wa.me/1599788134?text=Ol%C3%A1%2C%20Paulo.%20Vi%20seu%20Github%20e%20consegui%20seu%20contato%20por%20l%C3%A1.)
 
-- 💬 More: [Lates CV](http://lattes.cnpq.br/1994196517067630)
+- 💬 More: [Lattes CV](http://lattes.cnpq.br/1994196517067630)
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
