@@ -1,6 +1,6 @@
 ### Hi there, I'm Paulo Henrique 👋
 
-He is a undergraduating student in Physics at the Federal Institute of Education, Science and Technology of São Paulo (IFSP) Campus Itapetininga, an institution in which he also obtained the title of Computer Technician and served as a fellow working in the area of Web Apps development and integration of user interfaces. Web systems with numerical methods. He has experience in the areas of Computer Science, Graphic Design, User Interface and Experience Patterns and development of Progressive Web Apps, with an emphasis on user utilization research and interface improvement techniques.
+He is a undergraduate student in Physics at the Federal Institute of Education, Science and Technology of São Paulo (IFSP) Campus Itapetininga, an institution in which he also obtained the title of Computer Technician and served as a fellow working in the area of Web Apps development and integration of user interfaces. Web systems with numerical methods. He has experience in the areas of Computer Science, Graphic Design, User Interface and Experience Patterns and development of Progressive Web Apps, with an emphasis on user utilization research and interface improvement techniques.
 
 
 - 🔭 I’m currently working with Vue JS, Python, MongoDB and Node JS in a research project financed by São Paulo Research Support Foundation - (Fapesp) to develop Web and Mobile Apps to numerical simulations.
