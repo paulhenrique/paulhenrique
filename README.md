@@ -37,6 +37,8 @@
    <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
    <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
    <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
 </div>
 
 
