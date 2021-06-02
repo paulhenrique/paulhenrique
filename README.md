@@ -17,7 +17,7 @@
 <h2 align="center">Stats</h2>
 
 <div align="center">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulhenrique&show_icons=true&count_private=true&include_all_commits=tru&theme=vue-dark&layout=compact" />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulhenrique&show_icons=true&count_private=true&include_all_commits=true&theme=vue-dark&layout=compact" />
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" />
 </div>
 
