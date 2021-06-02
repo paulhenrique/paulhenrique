@@ -1,21 +1,46 @@
-### Hi there, I'm Paulo Henrique 👋
+<h1 align="center">Olá, eu sou o Paulo 👋</h1>
 
-He is a undergraduate student in Physics at the Federal Institute of Education, Science and Technology of São Paulo (IFSP) Campus Itapetininga, an institution in which he also obtained the title of Computer Technician and served as a fellow working in the area of Web Apps development and integration of user interfaces. Web systems with numerical methods. He has experience in the areas of Computer Science, Graphic Design, User Interface and Experience Patterns and development of Progressive Web Apps, with an emphasis on user utilization research and interface improvement techniques.
+<p align="center">Front-end Developer with Full-stack Skills</p>
+
+<div align="center">
+    <a href="mailto:phvcandido@gmail.com">
+       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   </a>
+    <a href="https://www.linkedin.com/in/paulhenriquev/" target="_blank">
+       <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a>
+   <a href="http://lattes.cnpq.br/1994196517067630" target="_blank">
+       <img src="https://img.shields.io/badge/-Lattes-%230077B5?style=for-the-badge&logo=cv&logoColor=white" target="_blank">
+   </a>
+</div>
+
+<h2 align="center">Stats</h2>
+
+<div align="center">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulhenrique&show_icons=true&count_private=true&include_all_commits=tru&theme=vue-dark&layout=compact" />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" />
+</div>
+
+<h2 align="center">Linguagens/Frameworks</h2>
+
+<div align="center">
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+   <img width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+</div>
 
 
-- 🔭 I’m currently working with Vue JS, Python, MongoDB and Node JS in a research project financed by São Paulo Research Support Foundation - (Fapesp) to develop Web and Mobile Apps to numerical simulations.
 
-- 🌱 I’m currently learning Physics at the Federal Institute of São Paulo Campus Itapetininga, where I became Computer Technician and develop my first projects with the Web and software development
-
-- ⚡ Fun fact: I'm musician, and I love that. 
-
-- 📫 How to reach me: [E-mail](paulo.vieira@aluno.ifsp.edu.br), [Facebook](https://fb.com/paulhenriquev), [WhatsApp](https://wa.me/1599788134?text=Ol%C3%A1%2C%20Paulo.%20Vi%20seu%20Github%20e%20consegui%20seu%20contato%20por%20l%C3%A1.)
-
-- 💬 More: [Lattes CV](http://lattes.cnpq.br/1994196517067630)
-
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-   -->
+ 
 
 
